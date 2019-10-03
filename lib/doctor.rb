@@ -5,6 +5,7 @@ class Doctor
   
   def initialize()
     
+    @@all << self
   end
   
 end
