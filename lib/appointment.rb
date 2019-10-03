@@ -1,1 +1,0 @@
-https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/object-relationships/has-many-objects-through-lab#
