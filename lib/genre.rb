@@ -8,4 +8,7 @@ class Genre
     @@all << self
   end
   
+  def new_song
+    Song.new()
+  end
 end
